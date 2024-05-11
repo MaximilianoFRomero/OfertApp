@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|c:\\users\\12\\documents\\romero\\ofertappromero\\ofertappromero\\vistas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|solutionrelative:ofertappromero\\vistas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|c:\\users\\12\\documents\\romero\\ofertappromero\\ofertappromero\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|solutionrelative:ofertappromero\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|c:\\users\\12\\documents\\romero\\ofertappromero\\ofertappromero\\controller\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|solutionrelative:ofertappromero\\controller\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|c:\\users\\12\\documents\\romero\\ofertappromero\\ofertappromero\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|solutionrelative:ofertappromero\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|c:\\users\\12\\documents\\romero\\ofertappromero\\ofertappromero\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|solutionrelative:ofertappromero\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|c:\\users\\12\\documents\\romero\\ofertappromero\\ofertappromero\\model\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FB9F6E-C155-486A-B1E9-0B9C6A42B75D}|OfertAppRomero\\OfertAppRomero.csproj|solutionrelative:ofertappromero\\model\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "OfertAppRomero\\Vistas\\Form1.cs",
+              "ToolTip": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Vistas\\Form1.cs",
+              "RelativeToolTip": "OfertAppRomero\\Vistas\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:30:01.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Vistas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OfertAppRomero\\Vistas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Vistas\\Form1.Designer.cs",
+              "RelativeToolTip": "OfertAppRomero\\Vistas\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:29:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "OfertAppRomero\\Vistas\\Form1.cs",
+              "ToolTip": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OfertAppRomero\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:21:50.777Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfferController.cs",
+              "DocumentMoniker": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Controller\\OfferController.cs",
+              "RelativeDocumentMoniker": "OfertAppRomero\\Controller\\OfferController.cs",
+              "ToolTip": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Controller\\OfferController.cs",
+              "RelativeToolTip": "OfertAppRomero\\Controller\\OfferController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:52:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Model\\User.cs",
+              "RelativeDocumentMoniker": "OfertAppRomero\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Model\\User.cs",
+              "RelativeToolTip": "OfertAppRomero\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:46:11.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Model\\Offer.cs",
+              "RelativeDocumentMoniker": "OfertAppRomero\\Model\\Offer.cs",
+              "ToolTip": "C:\\Users\\12\\Documents\\Romero\\OfertAppRomero\\OfertAppRomero\\Model\\Offer.cs",
+              "RelativeToolTip": "OfertAppRomero\\Model\\Offer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:36:56.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
