@@ -18,12 +18,12 @@ namespace OfertAppRomero
             if (disposing && (components != null))
             {
                 components.Dispose();
-                OfferController offerController = new OfferController();
+                
             }
             base.Dispose(disposing);
         }
 
-
+        
 
         #region Windows Form Designer generated code
 

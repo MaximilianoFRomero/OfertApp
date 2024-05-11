@@ -16,9 +16,9 @@ namespace OfertAppRomero.Controller
             this.offers.Add(offer);
         }
 
-        public Offer getOffer(int index) 
+        public Offer getOffer(Offer offer) 
         {
-            return this.offers[index];
+            return offer;
         }
     }
 }
